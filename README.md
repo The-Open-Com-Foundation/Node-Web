@@ -1,3 +1,11 @@
+# Node Web UI
+
+<video src="https://github.com/user-attachments/assets/e38a4491-b446-4597-b287-32f0b6e011e9"></video>
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
