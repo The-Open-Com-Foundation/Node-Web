@@ -237,3 +237,5 @@ const ParachuteIcon = ({ className }: { className?: string }) => {
     </svg>
   );
 };
+
+export default AnimatedModalDemo;

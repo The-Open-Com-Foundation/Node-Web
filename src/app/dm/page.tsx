@@ -17,7 +17,7 @@ const DMView = () => {
     { id: 5, name: 'Project Mayhem', type: 'group', members: ['Tyler Durden', 'Angel Face', 'The Mechanic'] },
   ];
 
-  const handleSendMessage = (e) => {
+  const handleSendMessage = (e: { preventDefault: () => void; }) => {
     e.preventDefault();
     console.log(`Sending message to ${selectedChat.name}: ${message}`);
     setMessage('');
